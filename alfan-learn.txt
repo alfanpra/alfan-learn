@@ -2,3 +2,5 @@ Alfan Pratama Target
 - Learning Web Dev
 - Learning Git and Github
 - Make Small Project with Git and or Github
+- Learn about API
+- Learning Tailwind
