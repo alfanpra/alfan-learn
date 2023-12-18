@@ -4,3 +4,4 @@ Alfan Pratama Target
 - Make Small Project with Git and or Github
 - Learning Tailwind
 - Add Deep Understanding With SASS
+- Learning Git Hub
